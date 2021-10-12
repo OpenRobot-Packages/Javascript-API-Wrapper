@@ -1,0 +1,29 @@
+{
+    "name": "openrobotapi.js",
+    "version": "0.1.0",
+    "description": "JS API wrapper for OpenRobot API @ https://api.openrobot.xyz/",
+    "main": "index.js",
+    "typings": "./typings/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/OpenRobot-Packages/JavaScript-API-Wrapper/"
+    },
+    "keywords": [
+        "OpenRobot API",
+        "OpenRobot API Wrapper",
+        "OpenRobot API JavaScript Wrapper",
+        "OpenRobot API JS Wrapper"
+    ],
+    "author": "OpenRobot-Packages",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/OpenRobot-Packages/JavaScript-API-Wrapper/issues"
+    },
+    "homepage": "https://github.com/OpenRobot-Packages/JavaScript-API-Wrapper#readme",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+  }
